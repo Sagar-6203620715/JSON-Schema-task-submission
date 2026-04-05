@@ -1,0 +1,14 @@
+{
+  "name": "annotation-harness-hyperjump",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Annotation test harness for @hyperjump/json-schema (draft 2020-12)",
+  "license": "MIT",
+  "scripts": {
+    "test": "node bin/run-annotation-suite.mjs",
+    "self-check": "node bin/run-annotation-suite.mjs --self-check"
+  },
+  "devDependencies": {
+    "@hyperjump/json-schema": "^1.17.5"
+  }
+}
