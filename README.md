@@ -1,4 +1,6 @@
-# JSON-Schema-task-submission# Annotation Test Harness for @hyperjump/json-schema
+# JSON-Schema-task-submission
+
+# Annotation Test Harness for @hyperjump/json-schema
 
 This repository contains a test harness for the [JSON Schema Annotation Test Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite/tree/main/annotations), targeting the [@hyperjump/json-schema](https://github.com/hyperjump-io/json-schema) JavaScript implementation with draft 2020-12 support.
 
